@@ -20,7 +20,7 @@ class Program
         Console.WriteLine("Total Marks: " + (subject1 + subject2 + subject3)); // sums all the marks to get the total
         Console.WriteLine("Average Marks: " + ((subject1 + subject2 + subject3) / 3)); //calculates the average for the marks
 
-        //determines whether or not the student has passed
+        //determines whether or not the aforementioned student has passed
         if (((subject1 + subject2 + subject3) / 3) > 50)
         {
             Console.WriteLine("Result: PASS");
