@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../B Q1 Emfuleni Municipality Console App/B Q1 Emfuleni Municipality Console App.csproj" Id="94dafdab-84fc-4c91-b6ff-dd22f0d2ca01" />
+  <Project Path="../B Q2 Digital Identity Processor/B Q2 Digital Identity Processor.csproj" Id="4fa4ebf0-7ce0-4c66-a52d-7c0b36de657d" />
   <Project Path="../Q2 ATM System/Q2 ATM System.csproj" />
   <Project Path="../Q3 Program Languages/Q3 Program Languages.csproj" Id="b985219c-e73d-4710-921c-86c2e264f615" />
   <Project Path="Q1 Student Results.csproj" />
